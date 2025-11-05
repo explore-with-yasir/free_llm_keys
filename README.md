@@ -36,7 +36,7 @@ The goal is to help developers, researchers, and hobbyists explore different mod
   - [Cloudflare Workers AI](#cloudflare-workers-ai)
   - [Google Cloud Vertex AI](#google-cloud-vertex-ai)
   - [Vercel AI Gateway](#vercel-ai-gateway)
-  - [Cerebras](#cerebras)
+  - [Cerebras Cloud](#cerebras)
   - [Groq](#groq)
   - [OpenRouter](#openrouter)
   - [NVIDIA NIM](#nvidia-nim)
