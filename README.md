@@ -46,7 +46,7 @@ The goal is to help developers, researchers, and hobbyists explore different mod
 
 ---
 
-## 💳 Providers With Trial Credits
+## 💳 Providers Offering Trial Credits
 
 | Provider | Notes | Credits |
 |---------|-------|-------|
